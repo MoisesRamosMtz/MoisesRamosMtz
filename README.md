@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoisesRamosMtz
 - 👀 I’m interested in machine learning, big data and signal processings.
-- 🌱 I’m currently learning a PhD. in Electrical engineering.
+- 🌱 I got the degree of PhD. in Electrical engineering.
 - 💞️ I’m looking to collaborate on biomedical signal processings and data classification using machine learnings.
 - 📫 How to reach me @MoisesBul
 
